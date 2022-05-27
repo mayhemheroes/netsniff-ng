@@ -1,5 +1,5 @@
 project: rnshah9/netsniff-ng
-target: netsniff-ng
+target: mausezahn
 
 cmds:
   - cmd: /repo/mausezahn/mausezahn eth0 -f @@
