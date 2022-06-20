@@ -1,4 +1,4 @@
-project: rnshah9/netsniff-ng
+project: netsniff-ng
 target: mausezahn
 
 cmds:
