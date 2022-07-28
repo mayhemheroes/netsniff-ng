@@ -2,4 +2,4 @@ project: netsniff-ng
 target: mausezahn
 
 cmds:
-  - cmd: /repo/mausezahn/mausezahn eth0 -f @@
+  - cmd: /install/sbin/mausezahn eth0 -f @@
