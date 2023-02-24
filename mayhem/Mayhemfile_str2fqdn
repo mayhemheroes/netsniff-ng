@@ -1,0 +1,6 @@
+project: netsniff-ng
+target: str2fqdn
+
+cmds:
+  - cmd: /fuzz_str2fqdn
+    libfuzzer: true
